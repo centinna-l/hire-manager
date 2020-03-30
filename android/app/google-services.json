@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "901198609051",
+    "firebase_url": "https://firtut-e0bab.firebaseio.com",
+    "project_id": "firtut-e0bab",
+    "storage_bucket": "firtut-e0bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901198609051:android:89fbaf0b540a184ca4643e",
+        "android_client_info": {
+          "package_name": "com.example.hire_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901198609051-ke135s1k8jir38jn2pd8p4hd33b9tape.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hire_manager",
+            "certificate_hash": "432da2511b0b620becf06b59ce0c5ea5706ee0c6"
+          }
+        },
+        {
+          "client_id": "901198609051-7jg4c944u011l7093ur1g8nklu2hrkql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrNHvl7tjjqKyV4QknnnQXGZd56A2Kags"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901198609051-7jg4c944u011l7093ur1g8nklu2hrkql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901198609051-jc1jat0492ub3k1q29rjguqu4m9t43o8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fire.base"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

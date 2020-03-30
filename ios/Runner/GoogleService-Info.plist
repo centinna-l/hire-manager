@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>901198609051-m2dq6srl4knr7odchuoduth6jiei9isk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.901198609051-m2dq6srl4knr7odchuoduth6jiei9isk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>901198609051-ke135s1k8jir38jn2pd8p4hd33b9tape.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHJ6Il_TOwDtjCfOFqBVu9Sw5mcUk__7k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>901198609051</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jerry.99.hireManager</string>
+	<key>PROJECT_ID</key>
+	<string>firtut-e0bab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firtut-e0bab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:901198609051:ios:337ca34e30146691a4643e</string>
+	<key>DATABASE_URL</key>
+	<string>https://firtut-e0bab.firebaseio.com</string>
+</dict>
+</plist>

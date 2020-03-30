@@ -1,0 +1,3 @@
+class GloabalVariable{
+  String email;
+}
